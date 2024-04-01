@@ -12,6 +12,7 @@ Under development to join the [Charming Data Community](https://charming-data.ci
 - Points interesecting 3 of the top Orinoco Territory parks
 - Dataset enriched with latitude, longitude reverse geocoding: added State and Town by usign Geopy package
 - Dataset enriched with weather condition from [open-meteo api](https://open-meteo.com/) 
-- This repository include only the app code. Notebook for data prep have not been added yet
+- Added  notebook/data_prep.ipynb is to provide a sample of the main steps to simplify the original dataset.
+
 #### Python version
 - tested with 10.3 python version
