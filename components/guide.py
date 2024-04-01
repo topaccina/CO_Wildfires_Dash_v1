@@ -29,7 +29,7 @@ def build_guide():
                                         "- Wildfires detected over with high confidence - MODIS data confindence >=80% \n"
                                         "- Points interesecting 3 of the top Orinoco Territory parks\n"
                                         "- Dataset enriched with: latitude, longitude reverse geocoding - added State and Town by usign Geopy package- and weather condition from open-meteo api \n"
-                                        "= "
+                                        "\n "
                                         "\n\n\n",
                                         dangerously_allow_html=True,
                                     ),
