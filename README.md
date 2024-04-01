@@ -1,7 +1,7 @@
 #### App Purpose
 This application explores the fires of recent years in some of Colombia's natural parks using data from NASA.This application is intended for learning purpose only to explore the Plotly maps and test chained components. 
 #### Data Sources
-Dataset used in this app is a reduced version of the original dataset from this [Github repository] (https://github.com/oferreirap/wildfires_data_app/tree/main/Data). Thanks to [Olger Ferreira Pacheco](linkedin.com/in/olgerfp)
+Dataset used in this app is a reduced version of the original dataset from this [Github repository](https://github.com/oferreirap/wildfires_data_app/tree/main/Data). Thanks to [Olger Ferreira Pacheco](linkedin.com/in/olgerfp)
 
 Under development to join the [Charming Data Community](https://charming-data.circle.so/c/ai-python-projects/) March Project initiative 
 
